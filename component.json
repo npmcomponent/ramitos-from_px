@@ -1,0 +1,19 @@
+{
+  "name": "from_px",
+  "version": "0.0.1",
+  "description": "parse `px` into numbers",
+  "repo": "ramitos/from_px",
+  "keywords": ["pixels", "number", "px"],
+  "homepage": "https://github.com/ramitos/from_px",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/from_px.js",
+  "scripts": [
+    "src/from_px.js"
+  ],
+  "dependencies": {
+    "component/type": "*",
+    "KenanY/is-nan": "*"
+  }
+}
