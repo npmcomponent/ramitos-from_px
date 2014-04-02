@@ -1,0 +1,16 @@
+{
+  "name": "ramitos-from_px",
+  "description": "parse `px` into numbers",
+  "version": "0.0.1",
+  "keywords": [
+    "pixels",
+    "number",
+    "px"
+  ],
+  "main": "src/from_px.js",
+  "dependencies": {
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "KenanY-is-nan": "git://github.com/npmcomponent/KenanY-is-nan.git"
+  },
+  "license": "MIT"
+}

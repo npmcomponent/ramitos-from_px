@@ -1,5 +1,5 @@
-var type = require('type'),
-    is_nan = require('is-nan')
+var type = require('component-type'),
+    is_nan = require('KenanY-is-nan')
 
 module.exports = function (px) {
   if(type(px) !== 'string') return 0
